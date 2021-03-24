@@ -39,4 +39,4 @@ This package is released under the MIT license.
 
 ## Live Project
 
-> Check out the results [here](https://daniellivingston32.github.io/Quote-Generator/)
+> Check out the results [here](https://varungupta12.github.io/motivationalQuoteGenerator/)
